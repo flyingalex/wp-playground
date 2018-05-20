@@ -1,0 +1,2 @@
+2018/05/20 13:15:19 [error] 8#8: *13 open() "/var/www/html/phpmyadmin" failed (2: No such file or directory), client: 172.19.0.1, server: localhost, request: "GET /phpmyadmin HTTP/1.1", host: "localhost:8000"
+2018/05/20 13:17:32 [error] 8#8: *19 open() "/var/www/html/robots.txt" failed (2: No such file or directory), client: 172.19.0.1, server: localhost, request: "GET /robots.txt HTTP/1.1", host: "localhost:8000"
